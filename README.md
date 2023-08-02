@@ -126,6 +126,16 @@ crossBrowserNotificationSoundPlay();
 </html>
 ```
 
+### Contribuire
+
+Per contribuire al progetto, segui questi passaggi:
+
+1. Forka il repository.
+2. Crea un branch per il tuo contributo: `git checkout -b nuova-funzionalita`
+3. Fai i tuoi cambiamenti e commit: `git commit -m "Aggiunta nuova funzionalità"`
+4. Pusha il tuo branch: `git push origin nuova-funzionalita`
+5. Invia una Pull Request nella branch `main` del repository originale.
+
 ### Licenza
 
 Questo progetto è concesso in licenza sotto la [Licenza MIT](LICENSE).
