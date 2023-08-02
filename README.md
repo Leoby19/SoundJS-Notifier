@@ -108,11 +108,11 @@ Questo progetto è concesso in licenza sotto la [Licenza MIT](LICENSE).
 
 ### Autore
 
-[@YourGitHubUsername](https://github.com/YourGitHubUsername)
+[@Leoby19](https://github.com/Leoby19)
 
 ### Contatti
 
-Per domande o supporto, puoi contattare l'autore tramite email: your.email@example.com.
+Per domande o supporto, puoi contattare l'autore tramite email: leonardo@menumal.it.
 
 ---
-Hai solo bisogno di sostituire `YourGitHubUsername` con il tuo nome utente GitHub e `your.email@example.com` con il tuo indirizzo email. Ovviamente, se desideri fornire più dettagli, puoi aggiungere altre sezioni o personalizzare il file README.md come preferisci.
+Hai solo bisogno di sostituire `Leoby19` con il tuo nome utente GitHub e `leonardo@menumal.it` con il tuo indirizzo email. Ovviamente, se desideri fornire più dettagli, puoi aggiungere altre sezioni o personalizzare il file README.md come preferisci.
