@@ -113,6 +113,3 @@ Questo progetto è concesso in licenza sotto la [Licenza MIT](LICENSE).
 ### Contatti
 
 Per domande o supporto, puoi contattare l'autore tramite email: leonardo@menumal.it.
-
----
-Hai solo bisogno di sostituire `Leoby19` con il tuo nome utente GitHub e `leonardo@menumal.it` con il tuo indirizzo email. Ovviamente, se desideri fornire più dettagli, puoi aggiungere altre sezioni o personalizzare il file README.md come preferisci.
