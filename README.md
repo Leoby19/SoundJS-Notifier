@@ -1,14 +1,14 @@
-## Nome della Libreria: Cross-Browser Notification Sound
+## Nome della Libreria: SoundJS-Notifier
 
 ### Descrizione
 
 **Italiano:**
 
-La libreria Cross-Browser Notification Sound è un modulo JavaScript che consente agli sviluppatori di integrare facilmente notifiche sonore nei loro progetti web, indipendentemente dal browser utilizzato o dalla versione del browser stesso. Questa libreria supporta tutti i principali browser e funziona su qualsiasi sistema operativo. Offre una soluzione semplice per migliorare l'esperienza dell'utente attraverso notifiche audio, sia per scopi informativi che per interazioni significative.
+La libreria SoundJS-Notifier è un modulo JavaScript che consente agli sviluppatori di integrare facilmente notifiche sonore nei loro progetti web, indipendentemente dal browser utilizzato o dalla versione del browser stesso. Questa libreria supporta tutti i principali browser e funziona su qualsiasi sistema operativo. Offre una soluzione semplice per migliorare l'esperienza dell'utente attraverso notifiche audio, sia per scopi informativi che per interazioni significative.
 
 **English:**
 
-Cross-Browser Notification Sound is a JavaScript library that allows developers to easily integrate notification sounds into their web projects, regardless of the browser or its version. This library supports all major browsers and works on any operating system. It provides a straightforward solution to enhance the user experience with audio notifications, both for informational purposes and meaningful interactions.
+SoundJS-Notifier is a JavaScript library that allows developers to easily integrate notification sounds into their web projects, regardless of the browser or its version. This library supports all major browsers and works on any operating system. It provides a straightforward solution to enhance the user experience with audio notifications, both for informational purposes and meaningful interactions.
 
 ### Funzionalità
 
