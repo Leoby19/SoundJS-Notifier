@@ -1,1 +1,108 @@
-function _0x3559(){var _0x56dd16=['querySelector','#fff','18izopsb','9999','parentNode','216470HzMtbK','19435NnyVUi','10px\x2020px','20px','1953FysmCZ','.popup','textContent','fixed','155YYUgQH','574648cUerxc','className','Vuoi\x20accettare\x20le\x20notifiche\x20sonore?','popup','100%','removeChild','5px','appendChild','0\x2010px','createElement','none','Rifiuta','142813PgxXeG','21108WoTgPe','play','style','center','flex','#e53935','div','#3baf4a','4lhUlMi','270420wxchPr','getElementsByTagName','8sxVWZP','onclick','popup-content'];_0x3559=function(){return _0x56dd16;};return _0x3559();}(function(_0x1be653,_0x2f5c89){var _0xd0e71b=_0x105f,_0x2c801a=_0x1be653();while(!![]){try{var _0x2b2dfe=parseInt(_0xd0e71b(0x1e3))/0x1*(-parseInt(_0xd0e71b(0x1da))/0x2)+parseInt(_0xd0e71b(0x201))/0x3*(-parseInt(_0xd0e71b(0x200))/0x4)+-parseInt(_0xd0e71b(0x1ea))/0x5*(-parseInt(_0xd0e71b(0x1f8))/0x6)+parseInt(_0xd0e71b(0x1e6))/0x7+-parseInt(_0xd0e71b(0x1eb))/0x8*(-parseInt(_0xd0e71b(0x1df))/0x9)+parseInt(_0xd0e71b(0x1e2))/0xa+parseInt(_0xd0e71b(0x1f7))/0xb;if(_0x2b2dfe===_0x2f5c89)break;else _0x2c801a['push'](_0x2c801a['shift']());}catch(_0x5ad4c5){_0x2c801a['push'](_0x2c801a['shift']());}}}(_0x3559,0x1d3c5));var vol=![];function sleep(_0x273a73){return new Promise(_0x173d46=>setTimeout(_0x173d46,_0x273a73));}function createPopupEnableSounds(_0x57c0ba){var _0x2058dc=_0x105f,_0x58edcc=document[_0x2058dc(0x1f4)](_0x2058dc(0x1fe));_0x58edcc[_0x2058dc(0x1ec)]=_0x2058dc(0x1ee),applyStyles(_0x58edcc,{'display':_0x2058dc(0x1fc),'alignItems':_0x2058dc(0x1fb),'justifyContent':_0x2058dc(0x1fb),'position':_0x2058dc(0x1e9),'top':'0','left':'0','width':_0x2058dc(0x1ef),'height':_0x2058dc(0x1ef),'backgroundColor':'rgba(0,\x200,\x200,\x200.7)','zIndex':_0x2058dc(0x1e0)});var _0x3405c9=document[_0x2058dc(0x1f4)](_0x2058dc(0x1fe));_0x3405c9[_0x2058dc(0x1ec)]=_0x2058dc(0x1dc),applyStyles(_0x3405c9,{'backgroundColor':'#fff','padding':_0x2058dc(0x1e5),'borderRadius':_0x2058dc(0x1f1),'textAlign':'center'}),_0x58edcc[_0x2058dc(0x1f2)](_0x3405c9);var _0x5bfdd7=document[_0x2058dc(0x1f4)]('p');_0x5bfdd7[_0x2058dc(0x1e8)]=_0x2058dc(0x1ed),_0x3405c9[_0x2058dc(0x1f2)](_0x5bfdd7);var _0x2e74ed=document[_0x2058dc(0x1f4)](_0x2058dc(0x1fe));_0x2e74ed['className']='popup-buttons',applyStyles(_0x2e74ed,{'display':_0x2058dc(0x1fc),'justifyContent':_0x2058dc(0x1fb)});var _0x129fe4=document['createElement']('button');_0x129fe4[_0x2058dc(0x1e8)]='Accetta',_0x129fe4[_0x2058dc(0x1db)]=function(){enableSounds(_0x57c0ba),chiudiPopup();},applyStyles(_0x129fe4,{'margin':_0x2058dc(0x1f3),'padding':_0x2058dc(0x1e4),'border':'none','borderRadius':'5px','cursor':'pointer','backgroundColor':_0x2058dc(0x1ff),'color':_0x2058dc(0x1de)}),_0x2e74ed[_0x2058dc(0x1f2)](_0x129fe4);var _0x27fcd5=document[_0x2058dc(0x1f4)]('button');_0x27fcd5[_0x2058dc(0x1e8)]=_0x2058dc(0x1f6),_0x27fcd5[_0x2058dc(0x1db)]=chiudiPopup,applyStyles(_0x27fcd5,{'margin':'0\x2010px','padding':_0x2058dc(0x1e4),'border':_0x2058dc(0x1f5),'borderRadius':_0x2058dc(0x1f1),'cursor':'pointer','backgroundColor':_0x2058dc(0x1fd),'color':_0x2058dc(0x1de)}),_0x2e74ed[_0x2058dc(0x1f2)](_0x27fcd5),_0x3405c9['appendChild'](_0x2e74ed);var _0x1fc357=document[_0x2058dc(0x1d9)]('body')[0x0];_0x1fc357[_0x2058dc(0x1f2)](_0x58edcc);}function applyStyles(_0x41f79c,_0x407275){var _0x46db97=_0x105f;for(var _0x254a13 in _0x407275){_0x41f79c[_0x46db97(0x1fa)][_0x254a13]=_0x407275[_0x254a13];}}function chiudiPopup(){var _0x436593=_0x105f,_0x18b63a=document[_0x436593(0x1dd)](_0x436593(0x1e7));_0x18b63a[_0x436593(0x1e1)][_0x436593(0x1f0)](_0x18b63a);}async function enableSounds(_0x25919d){var _0x374d63=_0x105f;const _0x1e69f4=new Audio(_0x25919d);while(!![]){await sleep(0x3e8),vol&&(_0x1e69f4[_0x374d63(0x1f9)](),vol=![]);}}function _0x105f(_0x198d51,_0x16c7e9){var _0x355902=_0x3559();return _0x105f=function(_0x105f5d,_0x39ed58){_0x105f5d=_0x105f5d-0x1d9;var _0x53a423=_0x355902[_0x105f5d];return _0x53a423;},_0x105f(_0x198d51,_0x16c7e9);}function crossBrowserNotificationSoundPlay(){vol=!![];}
+    var vol = false;
+
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    // Funzione per creare il popup
+    function createPopupEnableSounds(file) {
+        var popup = document.createElement("div");
+        popup.className = "popup";
+        applyStyles(popup, {
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            position: "fixed",
+            top: "0",
+            left: "0",
+            width: "100%",
+            height: "100%",
+            backgroundColor: "rgba(0, 0, 0, 0.7)",
+            zIndex: "9999",
+        });
+
+        var popupContent = document.createElement("div");
+        popupContent.className = "popup-content";
+        applyStyles(popupContent, {
+            backgroundColor: "#fff",
+            padding: "20px",
+            borderRadius: "5px",
+            textAlign: "center",
+        });
+        popup.appendChild(popupContent);
+
+        var message = document.createElement("p");
+        message.textContent = "Vuoi accettare le notifiche sonore?";
+        popupContent.appendChild(message);
+
+        var buttonsContainer = document.createElement("div");
+        buttonsContainer.className = "popup-buttons";
+        applyStyles(buttonsContainer, {
+            display: "flex",
+            justifyContent: "center",
+        });
+
+        var accettaButton = document.createElement("button");
+        accettaButton.textContent = "Accetta";
+        accettaButton.onclick = function () {
+            enableSounds(file);
+            chiudiPopup();
+        };
+        applyStyles(accettaButton, {
+            margin: "0 10px",
+            padding: "10px 20px",
+            border: "none",
+            borderRadius: "5px",
+            cursor: "pointer",
+            backgroundColor: "#3baf4a",
+            color: "#fff",
+        });
+        buttonsContainer.appendChild(accettaButton);
+
+        var rifiutaButton = document.createElement("button");
+        rifiutaButton.textContent = "Rifiuta";
+        rifiutaButton.onclick = chiudiPopup;
+        applyStyles(rifiutaButton, {
+            margin: "0 10px",
+            padding: "10px 20px",
+            border: "none",
+            borderRadius: "5px",
+            cursor: "pointer",
+            backgroundColor: "#e53935",
+            color: "#fff",
+        });
+        buttonsContainer.appendChild(rifiutaButton);
+
+        popupContent.appendChild(buttonsContainer);
+
+        var body = document.getElementsByTagName("body")[0];
+        body.appendChild(popup);
+    }
+
+    function applyStyles(element, styles) {
+        for (var property in styles) {
+            element.style[property] = styles[property];
+        }
+    }
+
+    // Funzione per chiudere il popup
+    function chiudiPopup() {
+        var popup = document.querySelector(".popup");
+        popup.parentNode.removeChild(popup);
+    }
+
+    async function enableSounds(url) {
+        const audio = new Audio(url);
+        while (true) {
+
+            await sleep(1000);
+            if (vol) {
+                audio.play();
+                vol = false;
+            }
+        }
+    }
+
+    function crossBrowserNotificationSoundPlay() {
+        vol = true;
+    }
