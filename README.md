@@ -35,7 +35,7 @@ SoundJS-Notifier is a JavaScript library that allows developers to easily integr
 1. Includi la libreria nel tuo progetto:
 
 ```html
-<script src="cross-browser-notification-sound.js"></script>
+<script src="SoundJS-Notifier.js"></script>
 ```
 
 2. Chiamata alla funzione per riprodurre una notifica sonora:
@@ -49,7 +49,7 @@ crossBrowserNotificationSound.play();
 1. Include the library in your project:
 
 ```html
-<script src="cross-browser-notification-sound.js"></script>
+<script src="SoundJS-Notifier.js"></script>
 ```
 
 2. Call the function to play a notification sound:
@@ -67,7 +67,7 @@ crossBrowserNotificationSound.play();
 <html>
 <head>
   <title>Test Notifica Sonora</title>
-  <script src="cross-browser-notification-sound.js"></script>
+  <script src="SoundJS-Notifier.js"></script>
 </head>
 <body>
   <h1>Test Notifica Sonora</h1>
@@ -83,7 +83,7 @@ crossBrowserNotificationSound.play();
 <html>
 <head>
   <title>Test Notification Sound</title>
-  <script src="cross-browser-notification-sound.js"></script>
+  <script src="SoundJS-Notifier.js"></script>
 </head>
 <body>
   <h1>Test Notification Sound</h1>
