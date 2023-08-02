@@ -38,7 +38,13 @@ SoundJS-Notifier is a JavaScript library that allows developers to easily integr
 <script src="SoundJS-Notifier.js"></script>
 ```
 
-2. Chiamata alla funzione per riprodurre una notifica sonora:
+2. Chiamata alla funzione per generare il popup di accettazione delle notifiche sonore:
+
+```javascript
+createPopupEnableSounds("media/sound.mp3");
+```
+
+3. Chiamata alla funzione per riprodurre una notifica sonora:
 
 ```javascript
 crossBrowserNotificationSoundPlay();
@@ -52,7 +58,13 @@ crossBrowserNotificationSoundPlay();
 <script src="SoundJS-Notifier.js"></script>
 ```
 
-2. Call the function to play a notification sound:
+2. Call the function to generate the sound notifications acceptance popup:
+
+```javascript
+createPopupEnableSounds("media/sound.mp3");
+```
+
+3. Call the function to play a notification sound:
 
 ```javascript
 crossBrowserNotificationSoundPlay();
