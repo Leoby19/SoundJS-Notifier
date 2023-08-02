@@ -41,7 +41,7 @@ SoundJS-Notifier is a JavaScript library that allows developers to easily integr
 2. Chiamata alla funzione per riprodurre una notifica sonora:
 
 ```javascript
-crossBrowserNotificationSound.play();
+crossBrowserNotificationSoundPlay();
 ```
 
 **English:**
@@ -55,7 +55,7 @@ crossBrowserNotificationSound.play();
 2. Call the function to play a notification sound:
 
 ```javascript
-crossBrowserNotificationSound.play();
+crossBrowserNotificationSoundPlay();
 ```
 
 ### Esempio
@@ -64,15 +64,26 @@ crossBrowserNotificationSound.play();
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="it">
 <head>
-  <title>Test Notifica Sonora</title>
-  <script src="SoundJS-Notifier.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagina Web</title>
 </head>
 <body>
-  <h1>Test Notifica Sonora</h1>
-  <button onclick="crossBrowserNotificationSound.play()">Suona Notifica</button>
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    Prova a lanciare la funzione dalla console non avrai piu problemi di click! <br>
+    crossBrowserNotificationSoundPlay() in console!
+  </div>
 </body>
+<script src="SoundJS-Notifier.js"></script>
+<script>
+
+    window.onload = function() {
+        createPopupEnableSounds("media/sound.mp3");
+    };
+
+</script>
 </html>
 ```
 
@@ -80,15 +91,26 @@ crossBrowserNotificationSound.play();
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="it">
 <head>
-  <title>Test Notification Sound</title>
-  <script src="SoundJS-Notifier.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Page</title>
 </head>
 <body>
-  <h1>Test Notification Sound</h1>
-  <button onclick="crossBrowserNotificationSound.play()">Play Notification</button>
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    Try running the function from the console, you won't have any more click issues!<br>
+    crossBrowserNotificationSoundPlay() in console!
+  </div>
 </body>
+<script src="SoundJS-Notifier.js"></script>
+<script>
+
+    window.onload = function() {
+        createPopupEnableSounds("media/sound.mp3");
+    };
+
+</script>
 </html>
 ```
 

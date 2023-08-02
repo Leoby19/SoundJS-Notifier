@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagina Web</title>
+</head>
+<body>
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    Prova a lanciare la funzione dalla console non avrai piu problemi di click! <br>
+    Try running the function from the console, you won't have any more click issues!<br><br>
+    crossBrowserNotificationSoundPlay() in console!
+  </div>
+</body>
+<script src="SoundJS-Notifier.js"></script>
+<script>
+
+    window.onload = function() {
+        createPopupEnableSounds("media/sound.mp3");
+    };
+
+</script>
+</html>
