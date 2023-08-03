@@ -1,4 +1,4 @@
-## Nome della Libreria: SoundJS-Notifier-NoClick-NoClick
+## Nome della Libreria: SoundJS-Notifier-NoClick
 
 ### Descrizione
 
