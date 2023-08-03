@@ -1,14 +1,14 @@
-## Nome della Libreria: SoundJS-Notifier
+## Nome della Libreria: SoundJS-Notifier-NoClick-NoClick
 
 ### Descrizione
 
 **Italiano:**
 
-La libreria SoundJS-Notifier è un modulo JavaScript che consente agli sviluppatori di integrare facilmente notifiche sonore nei loro progetti web, indipendentemente dal browser utilizzato o dalla versione del browser stesso. Questa libreria supporta tutti i principali browser e funziona su qualsiasi sistema operativo. Offre una soluzione semplice per migliorare l'esperienza dell'utente attraverso notifiche audio, sia per scopi informativi che per interazioni significative.
+La libreria SoundJS-Notifier-NoClick-NoClick è un modulo JavaScript che consente agli sviluppatori di integrare facilmente notifiche sonore nei loro progetti web, indipendentemente dal browser utilizzato o dalla versione del browser stesso. Questa libreria supporta tutti i principali browser e funziona su qualsiasi sistema operativo. Offre una soluzione semplice per migliorare l'esperienza dell'utente attraverso notifiche audio, sia per scopi informativi che per interazioni significative. Un aspetto importante è che permette di avviare un suono di notifica senza la necessità di un click fisico sulla pagina, raggirando l'autoplay su tutti i browser.
 
 **English:**
 
-SoundJS-Notifier is a JavaScript library that allows developers to easily integrate notification sounds into their web projects, regardless of the browser or its version. This library supports all major browsers and works on any operating system. It provides a straightforward solution to enhance the user experience with audio notifications, both for informational purposes and meaningful interactions.
+SoundJS-Notifier-NoClick-NoClick is a JavaScript library that allows developers to easily integrate notification sounds into their web projects, regardless of the browser or its version. This library supports all major browsers and works on any operating system. It provides a straightforward solution to enhance the user experience with audio notifications, both for informational purposes and meaningful interactions. An important feature is that it allows triggering a notification sound without the need for a physical click on the page, bypassing autoplay restrictions on all browsers.
 
 ### Funzionalità
 
@@ -35,7 +35,7 @@ SoundJS-Notifier is a JavaScript library that allows developers to easily integr
 1. Includi la libreria nel tuo progetto:
 
 ```html
-<script src="SoundJS-Notifier.js"></script>
+<script src="SoundJS-Notifier-NoClick.js"></script>
 ```
 
 2. Chiamata alla funzione per generare il popup di accettazione delle notifiche sonore:
@@ -55,7 +55,7 @@ crossBrowserNotificationSoundPlay();
 1. Include the library in your project:
 
 ```html
-<script src="SoundJS-Notifier.js"></script>
+<script src="SoundJS-Notifier-NoClick.js"></script>
 ```
 
 2. Call the function to generate the sound notifications acceptance popup:
@@ -88,7 +88,7 @@ crossBrowserNotificationSoundPlay();
     crossBrowserNotificationSoundPlay() in console!
   </div>
 </body>
-<script src="SoundJS-Notifier.js"></script>
+<script src="SoundJS-Notifier-NoClick.js"></script>
 <script>
 
     window.onload = function() {
@@ -115,7 +115,7 @@ crossBrowserNotificationSoundPlay();
     crossBrowserNotificationSoundPlay() in console!
   </div>
 </body>
-<script src="SoundJS-Notifier.js"></script>
+<script src="SoundJS-Notifier-NoClick.js"></script>
 <script>
 
     window.onload = function() {
